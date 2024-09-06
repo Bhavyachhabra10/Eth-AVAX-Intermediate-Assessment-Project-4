@@ -27,3 +27,4 @@ Steps:
 Bhavya Chhabra
 
 ## Licence    
+[MIT License](./LICENSE)
